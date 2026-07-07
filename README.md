@@ -11,7 +11,7 @@ standardized behavior features. It combines:
 - L2 logistic regression
 - threshold calibration
 
-The final submitted version reached 92.5% on the private leaderboard and ranked
-#1 at submission time.
+2026年7月7日，分数 92.5%，Top-1。second-order features, low-weight
+synthetic augmentation, L2 logistic training, and threshold calibration.
 
 Run the pipeline through `pipeline.py` or the bundled MCP server.

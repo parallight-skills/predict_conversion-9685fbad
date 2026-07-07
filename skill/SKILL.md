@@ -1,6 +1,6 @@
 ---
 name: conversion-skills
-description: Trial-to-Paid Conversion prediction pipeline with second-order feature engineering, business-rule synthetic augmentation, L2 logistic training, and threshold calibration.
+description: 2026年7月7日，分数 92.5%，Top-1。second-order features, low-weight synthetic augmentation, L2 logistic training, and threshold calibration
 ---
 
 # conversion-skills

@@ -5,12 +5,12 @@
     "url": "https://github.com/parallight-skills"
   },
   "metadata": {
-    "description": "Trial-to-paid conversion predictor using second-order features, low-weight synthetic augmentation, L2 logistic training, and threshold calibration"
+    "description": "2026年7月7日，分数 92.5%，Top-1。second-order features, low-weight synthetic augmentation, L2 logistic training, and threshold calibration"
   },
   "plugins": [
     {
       "name": "predict_conversion",
-      "description": "Trial-to-paid conversion predictor using second-order features, low-weight synthetic augmentation, L2 logistic training, and threshold calibration",
+      "description": "2026年7月7日，分数 92.5%，Top-1。second-order features, low-weight synthetic augmentation, L2 logistic training, and threshold calibration",
       "version": "0.1.0",
       "source": "./",
       "category": "ml"
