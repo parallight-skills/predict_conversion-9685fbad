@@ -1,0 +1,5 @@
+{
+  "name": "predict_conversion",
+  "version": "0.1.0",
+  "description": "Trial-to-paid conversion predictor using second-order features, low-weight synthetic augmentation, L2 logistic training, and threshold calibration"
+}
